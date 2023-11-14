@@ -1,0 +1,9 @@
+package First_package;
+
+public class kikibeam {
+
+	public static void main(String[] args) {
+		
+	}
+
+}
